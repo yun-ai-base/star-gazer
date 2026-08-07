@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yun-ai-base.github.io/star-gazer/sitemap.xml
